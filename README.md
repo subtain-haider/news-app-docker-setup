@@ -10,8 +10,8 @@ This project consists of a backend API built with Laravel and a frontend applica
 ## Running the project
 
 1. Clone both the backend and frontend repositories:
-    git clone https://github.com/firstnamelastname/backend-laravel-api.git
-    git clone https://github.com/firstnamelastname/react-news-app.git
+    git clone https://github.com/subtain-haider/backend-laravel-api
+    git clone https://github.com/subtain-haider/react-news-app
 
 2. Change to the directory containing the `docker-compose.yml` file:
     cd /path/to/docker-compose/directory
